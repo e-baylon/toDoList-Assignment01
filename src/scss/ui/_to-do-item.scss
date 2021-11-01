@@ -1,0 +1,47 @@
+.to-do-item{
+    margin-left: auto;
+    width:480px;
+    margin-right:auto;
+    margin-top:2rem;
+    margin-bottom:2rem;
+    
+    background-color: #CCD5FF;
+    border-radius: 1rem;
+    display:flex;
+
+
+    
+    .category-title{
+        color:#C884A6;
+        font-size:1.5rem;
+        padding-left:3rem;
+        font-weight:bold;
+    }
+    .category-end-date{
+        padding-left:3rem;
+        color:#A6808C;
+        font-weight:bolder;
+    }
+    .category-is-completed{
+        padding-left:3rem;
+        color: #84714F;
+        font-weight:bold;
+    }
+
+    ul.cat-container{
+        width:200px;
+    }
+
+    ul.utils{
+        display:block;
+        padding:0;
+        width:100px;
+    }
+
+    .edit{
+        width:20%;
+    }
+
+    
+    
+}
